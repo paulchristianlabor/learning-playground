@@ -1,4 +1,4 @@
-/*
+"""""
 
 9. Palindrome Number
 Easy
@@ -31,9 +31,9 @@ Constraints:
 
 -231 <= x <= 231 - 1
 
-*/
+"""
 
-// Code starts here
+# Code starts here
 
 class Solution(object):
     def isPalindrome(self, x):
